@@ -3,9 +3,9 @@
 Proiect individual pentru disciplina **Proiectarea Bazelor de Date**.
 
 ## Autor
-- Student: [Nume și prenume]
-- Grupa: [Grupa]
-- Cadru didactic: [Nume]
+- Student: [Petruska Daria]
+- Grupa: [2]
+- Cadru didactic: [Vaduva Bogdan]
 
 ## Scop
 Proiectarea unei baze de date relaționale pentru o firmă de închirieri de mașini și realizarea unei aplicații Java conectate la aceasta. Soluția va organiza datele despre clienți, mașini, rezervări, contracte și plăți.
