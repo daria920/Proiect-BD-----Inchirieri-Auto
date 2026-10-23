@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Aplicație de monitorizare a închirierilor de mașini
 
 Proiect individual pentru disciplina **Proiectarea Bazelor de Date**.
@@ -48,3 +49,6 @@ Săptămâna 1: tema și limbajul au fost alese; titlul, scopul și README-ul su
 
 ## Urmărirea progresului
 Commit-uri mici și săptămânale. Tag-uri la finalul etapelor: `v0.1-analiza`, `v0.2-proiectare`, `v1.0-final`. Nu se publică parole sau date personale reale ale clienților.
+=======
+# Proiect-BD-----Inchirieri-Auto
+>>>>>>> 0a7ac2d293347066c567cd9cf9a2b980d136c708
