@@ -4,7 +4,6 @@ Proiect individual pentru disciplina **Proiectarea Bazelor de Date**.
 
 ## Autor
 - Student: [Petruska Daria]
-- Grupa: [2]
 - Cadru didactic: [Vaduva Bogdan]
 
 ## Scop
