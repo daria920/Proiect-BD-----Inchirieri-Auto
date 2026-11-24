@@ -11,7 +11,7 @@ Proiectarea unei baze de date relaționale pentru o firmă de închirieri de ma�
 
 ## Tehnologii
 - Aplicație: Java.
-- SGBD: de stabilit în funcție de cerințele laboratorului.
+- SGBD: de stabilit în funcție de cerințele laboratorului
 - Interfață: de stabilit.
 - Componentă IA: tehnologia va fi aleasă ulterior; aplicația principală rămâne în Java.
 
