@@ -4,7 +4,6 @@ CREATE DATABASE IF NOT EXISTS inchirieri_auto
 
 USE inchirieri_auto;
 
--- 1. Clientii firmei
 CREATE TABLE IF NOT EXISTS CLIENT (
     id_client INT AUTO_INCREMENT PRIMARY KEY,
     nume VARCHAR(80) NOT NULL,
